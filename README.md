@@ -13,7 +13,9 @@ This repository explores a single scalar **coherence field** $\,\Psi(x,t)\,$ who
 Under **spherical (diagonal-metric) symmetry**
 
 $$
-g_{\mu\nu} = \operatorname{diag}\!\Bigl[-\Psi(r),\;\Psi^{-1}(r),\; r^{2},\; r^{2}\sin^{2}\theta\Bigr],
+g_{\mu\nu}
+  =
+  \mathrm{diag}\!\bigl[-\Psi(r),\;\Psi^{-1}(r),\;r^{2},\;r^{2}\sin^{2}\theta\bigr].
 $$
 
 we derive analytic expressions for the Einstein tensor  
@@ -33,4 +35,4 @@ directly in the curved Ψ-background.
 
 ---
 
- Repository Layout
+ 
